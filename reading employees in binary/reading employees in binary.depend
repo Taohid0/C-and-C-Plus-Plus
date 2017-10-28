@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1411918460 source:d:\my programs\reading employees in binary\main.c
+	<stdio.h>
+	<stdlib.h>
+

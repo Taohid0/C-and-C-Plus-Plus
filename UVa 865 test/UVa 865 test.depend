@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1493476540 source:d:\program_part\c and cpp\uva 865 test\main.cpp
+	<iostream>
+	<cstdio>
+	<map>
+

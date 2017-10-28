@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1407854468 source:d:\my programs\gcd2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1407854470 source:g:\c and cpp\gcd2\main.c
+	<stdio.h>
+	<stdlib.h>
+

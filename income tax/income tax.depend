@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1405837598 source:d:\my programs\income tax\main.c
+	<stdio.h>
+	<conio.h>
+

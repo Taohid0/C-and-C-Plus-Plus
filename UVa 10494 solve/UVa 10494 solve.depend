@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1436550832 source:g:\c and cpp\uva 10494 solve\main.cpp
+	<cstdio>
+	<cstring>
+	<string>
+	<cmath>
+	<cctype>
+	<map>
+	<stack>
+	<cstdlib>
+	<queue>
+	<vector>
+	<algorithm>
+	<iostream>
+

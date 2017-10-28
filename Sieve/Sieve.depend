@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1426484233 source:g:\c and cpp\sieve\main.cpp
+	<stdio.h>
+	<math.h>
+

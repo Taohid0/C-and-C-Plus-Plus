@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1407263571 source:d:\my programs\pennies per day\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1407402348 source:d:\my programs\pennies for pay\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

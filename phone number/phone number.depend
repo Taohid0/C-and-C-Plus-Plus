@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1403946514 source:d:\my programs\phone number\main.c
+	<stdio.h>
+	<stdlib.h>
+

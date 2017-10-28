@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1410714992 source:d:\my programs\array8\main.c
+	<stdio.h>
+	<stdbool.h>
+

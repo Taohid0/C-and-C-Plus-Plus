@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1468143304 source:e:\c and cpp\uva 10282 2\main.cpp
+	<iostream>
+	<cstdio>
+	<map>
+	<sstream>
+

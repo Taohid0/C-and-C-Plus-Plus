@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1433831903 source:g:\c and cpp\uva 455 solve 2\main.cpp
+	<cstdio>
+	<iostream>
+	<cstring>
+

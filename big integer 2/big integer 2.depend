@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1416813342 source:d:\my programs\big integer 2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1416813748 source:e:\c and cpp\big integer 2\main.c
+	<stdio.h>
+	<stdlib.h>
+

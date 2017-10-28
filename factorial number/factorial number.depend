@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1407260826 source:d:\my programs\factorial number\main.c
+	<stdio.h>
+	<stdlib.h>
+

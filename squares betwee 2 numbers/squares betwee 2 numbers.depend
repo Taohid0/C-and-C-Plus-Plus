@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1408119706 source:d:\my programs\squares betwee 2 numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

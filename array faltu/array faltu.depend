@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1409939452 source:d:\my programs\array faltu\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1409939568 source:g:\c and cpp\array faltu\main.c
+	<stdio.h>
+	<stdlib.h>
+

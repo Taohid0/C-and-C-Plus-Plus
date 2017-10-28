@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1403545357 source:d:\my programs\value of x\main.c
+	<stdio.h>
+	<stdlib.h>
+

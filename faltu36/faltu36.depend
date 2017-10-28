@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1408112812 source:d:\my programs\faltu36\main.c
+	<stdio.h>
+	<stdlib.h>
+

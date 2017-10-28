@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1408247513 source:d:\my programs\borrowing money\main.c
+	<stdio.h>
+	<stdlib.h>
+

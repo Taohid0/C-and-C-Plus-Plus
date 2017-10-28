@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1413830297 source:d:\my programs\generator\main.c
+	<stdio.h>
+	<stdlib.h>
+

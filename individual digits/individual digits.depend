@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1408296796 source:d:\my programs\individual digits\main.c
+	<stdio.h>
+	<math.h>
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1498195864 source:d:\program_part\c and cpp\test header\main.cpp
+	<algorithm>
+	<bitset>
+	<cctype>
+	<cmath>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	<deque>
+	<fstream>
+	<iostream>
+	<list>
+	<map>
+	<queue>
+	<set>
+	<sstream>
+	<stack>
+	<string>
+	<utility>
+	<vector>
+

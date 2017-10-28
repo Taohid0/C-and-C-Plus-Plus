@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1498240368 source:d:\program_part\c and cpp\all ds contest 2 a net\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<algorithm>
+

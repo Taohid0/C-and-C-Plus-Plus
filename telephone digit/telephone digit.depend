@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1409163872 source:d:\my programs\telephone digit\main.c
+	<stdio.h>
+	<stdlib.h>
+

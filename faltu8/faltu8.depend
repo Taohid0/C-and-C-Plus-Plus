@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1405877380 source:d:\my programs\faltu8\main.c
+	<stdio.h>
+	<conio.h>
+

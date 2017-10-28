@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1403274803 source:d:\my programs\discount\main.c
+	<stdio.h>
+	<stdlib.h>
+

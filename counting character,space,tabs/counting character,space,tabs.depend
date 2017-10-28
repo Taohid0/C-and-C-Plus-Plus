@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1411833806 source:d:\my programs\counting character,space,tabs\main.c
+	<stdio.h>
+	<stdlib.h>
+

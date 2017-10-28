@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1405160224 source:d:\my programs\greade in case format\main.c
+	<stdio.h>
+	<stdlib.h>
+

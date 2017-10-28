@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1417443682 source:d:\my programs\big integer summestion\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1411530111 source:d:\my programs\rename\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1492232689 source:d:\program_part\c and cpp\net code test\main.cpp
+	<cstdio>
+	<algorithm>
+	<cstring>
+

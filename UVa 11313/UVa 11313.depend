@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1466583469 source:e:\c and cpp\uva 11313\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<algorithm>
+

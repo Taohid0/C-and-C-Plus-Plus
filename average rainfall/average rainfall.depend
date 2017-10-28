@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1408206504 source:d:\my programs\average rainfall\main.c
+	<stdio.h>
+	<stdlib.h>
+

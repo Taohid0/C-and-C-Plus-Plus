@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1408122800 source:d:\my programs\two towns\main.c
+	<stdio.h>
+	<stdlib.h>
+

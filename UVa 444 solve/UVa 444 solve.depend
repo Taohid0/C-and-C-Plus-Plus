@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1457621343 source:e:\c and cpp\uva 444 solve\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<sstream>
+	<cctype>
+	<string.h>
+	<algorithm>
+	<cmath>
+	<stack>
+	<fstream>
+	<cstdlib>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1509073849 source:d:\program_part\c and cpp\shayer 10\main.cpp
+	<iostream>
+	<conio.h>
+

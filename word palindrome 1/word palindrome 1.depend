@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1415555886 source:d:\my programs\word palindrome 1\main.c
+	<stdio.h>
+	<string.h>
+

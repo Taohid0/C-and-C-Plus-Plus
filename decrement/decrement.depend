@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1404971005 source:d:\my programs\decrement\main.c
+	<stdio.h>
+	<stdlib.h>
+

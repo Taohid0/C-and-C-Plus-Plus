@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1466599696 source:e:\c and cpp\uva 793\main.cpp
+	<cstdio>
+	<cstring>
+	<cctype>
+

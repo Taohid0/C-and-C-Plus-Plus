@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1412392354 source:d:\my programs\prime with function\main.c
+	<stdio.h>
+	<stdbool.h>
+

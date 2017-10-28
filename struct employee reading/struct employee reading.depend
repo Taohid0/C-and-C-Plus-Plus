@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1411883975 source:d:\my programs\struct employee reading\main.c
+	<stdio.h>
+	<stdlib.h>
+

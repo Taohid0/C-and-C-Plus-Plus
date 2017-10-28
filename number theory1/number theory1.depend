@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1406994021 source:d:\my programs\number theory1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

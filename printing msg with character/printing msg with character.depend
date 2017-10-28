@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1410885888 source:d:\my programs\printing msg with character\main.c
+	<stdio.h>
+	<stdlib.h>
+

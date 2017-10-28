@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1484845983 source:d:\program_part\c and cpp\foysal vai2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

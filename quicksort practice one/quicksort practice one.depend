@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1458500380 source:e:\c and cpp\quicksort practice one\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

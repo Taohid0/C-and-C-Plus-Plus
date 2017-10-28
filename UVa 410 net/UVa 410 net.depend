@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1473447797 source:d:\program_part\c and cpp\uva 410 net\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<bits/stdc++.h>
+

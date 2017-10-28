@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1431627248 source:g:\c and cpp\cup solve\main.cpp
+	<cstdio>
+	<algorithm>
+

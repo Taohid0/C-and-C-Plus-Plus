@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1408272886 source:d:\my programs\value of pi\main.c
+	<stdio.h>
+	<stdlib.h>
+

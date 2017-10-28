@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1466534630 source:e:\c and cpp\uva 371\main.cpp
+	<iostream>
+	<algorithm>
+	<sstream>
+	<fstream>
+	<utility>
+	<cstdlib>
+	<cstring>
+	<string>
+	<bitset>
+	<vector>
+	<cstdio>
+	<cctype>
+	<cmath>
+	<queue>
+	<deque>
+	<stack>
+	<map>
+

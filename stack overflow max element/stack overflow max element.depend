@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1499449739 source:d:\program_part\c and cpp\stack overflow max element\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

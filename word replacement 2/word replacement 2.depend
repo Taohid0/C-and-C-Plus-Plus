@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1416904276 source:d:\my programs\word replacement 2\main.c
+	<stdio.h>
+	<string.h>
+

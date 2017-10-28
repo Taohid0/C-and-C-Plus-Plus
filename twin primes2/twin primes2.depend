@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1430066342 source:g:\c and cpp\twin primes2\main.cpp
+	<algorithm>
+	<iostream>
+	<iterator>
+	<cassert>
+	<sstream>
+	<fstream>
+	<cstdlib>
+	<cstring>
+	<utility>
+	<complex>
+	<string>
+	<cctype>
+	<cstdio>
+	<vector>
+	<bitset>
+	<stack>
+	<queue>
+	<cmath>
+	<deque>
+	<list>
+	<set>
+	<map>
+

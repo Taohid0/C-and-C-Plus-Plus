@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1416632752 source:d:\my programs\rumoa 9\main.c
+	<stdio.h>
+	<stdlib.h>
+

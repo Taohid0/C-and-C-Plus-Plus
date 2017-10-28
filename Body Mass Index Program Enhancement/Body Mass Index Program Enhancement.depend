@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1405797116 source:d:\my programs\body mass index program enhancement\main.c
+	<stdio.h>
+	<conio.h>
+

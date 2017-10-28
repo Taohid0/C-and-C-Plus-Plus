@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1405456440 source:d:\my programs\balance a cheakbook\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

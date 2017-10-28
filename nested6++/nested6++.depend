@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1408773425 source:d:\my programs\nested6++\main.c
+	<stdio.h>
+	<stdlib.h>
+

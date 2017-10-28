@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1408126114 source:d:\my programs\lower and upper limit squares\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

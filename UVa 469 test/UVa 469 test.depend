@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1492745283 source:d:\program_part\c and cpp\uva 469 test\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<queue>
+	<map>
+	<bits/stdc++.h>
+

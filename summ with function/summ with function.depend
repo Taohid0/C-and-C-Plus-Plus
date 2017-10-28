@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1411271299 source:d:\my programs\summ with function\main.c
+	<stdio.h>
+	<stdlib.h>
+

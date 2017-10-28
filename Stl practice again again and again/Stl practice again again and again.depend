@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1436369406 source:g:\c and cpp\stl practice again again and again\main.cpp
+	<utility>
+	<string>
+	<complex>
+	<tuple>
+	<iostream>
+

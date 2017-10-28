@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1413800385 source:d:\my programs\test generator\main.c
+	<stdio.h>
+	<stdlib.h>
+

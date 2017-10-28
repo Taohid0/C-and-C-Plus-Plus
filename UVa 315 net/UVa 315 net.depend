@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1467152679 source:e:\c and cpp\uva 315 net\main.cpp
+	<cstdio>
+	<iostream>
+	<sstream>
+	<vector>
+	<algorithm>
+

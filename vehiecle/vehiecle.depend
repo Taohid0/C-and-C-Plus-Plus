@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1406126490 source:d:\my programs\vehiecle\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1407437821 source:d:\my programs\gratest number\main.c
+	<stdio.h>
+	<stdlib.h>
+
